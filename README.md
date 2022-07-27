@@ -1,4 +1,4 @@
-<h3 align="center" color="blue">Hello, A passionate Junior Software Developer from TURKEY</h3>
+<h1 align="center" color="blue">Merhaba</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
