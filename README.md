@@ -1,4 +1,6 @@
-<h1 align="center" color="blue">Merhaba</h1>
+
+
+<h1 align="center" color="red" >MERHABA</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
