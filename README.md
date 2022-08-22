@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammed-can-gezgin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-can-gezgin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammed-can-gezgin" target="codepen-documentation"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-can-gezgin" height="30" width="40" /></a>
 <a href="https://instagram.com/mcan.gezgi̇n" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcan.gezgi̇n" height="30" width="40" /></a>
 </p>
 
