@@ -1,6 +1,6 @@
 
 
-<h1 align="center" color="red" >MERHABALAR :)</h1>
+<h1 align="center" color="red" >Muhammed Can GEZGİN</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
