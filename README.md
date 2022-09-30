@@ -12,4 +12,4 @@
 
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cangezgin1&show_icons=true&locale=en&layout=compact" alt="cangezgin1" /></p>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
