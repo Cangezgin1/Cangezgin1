@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can GEZGİN</h1>
 <h3 align="center">A passionate backend developer from Turkiye :)))</h3>
 <ul align="center">
-<img align="right" width="400"<img src="https://github.com/demartini/demartini/blob/master/code.gif" />
+<img align="center" width="400"<img src="https://github.com/demartini/demartini/blob/master/code.gif" />
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cangezgin1&label=Profile%20views&color=0e75b6&style=flat" alt="cangezgin1" /> </p>
