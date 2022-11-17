@@ -9,11 +9,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cangezgin1" alt="cangezgin1" /></a> </p>
 
+<div aling="center">
+  
 - 🔭 I’m currently working on [WebMVC .Net Core 5.0](https://github.com/Cangezgin1/WebMVC_.NetCore)
 
 - 🌱 I’m currently learning **.Net Core, Onion Architecture, API**
 
 - 📫 How to reach me **can.gesgin@gmail.com**
+  
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
