@@ -7,8 +7,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cangezgin1&label=Profile%20views&color=0e75b6&style=flat" alt="cangezgin1" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cangezgin1" alt="cangezgin1" /></a> </p>
-
 <div aling="center">
   
 - 🔭 I’m currently working on [WebMVC .Net Core 5.0](https://github.com/Cangezgin1/WebMVC_.NetCore)
