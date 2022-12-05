@@ -9,7 +9,7 @@
 
 <div aling="center">
   
-- 🔭 I’m currently working on [WebMVC .Net Core 5.0](https://github.com/Cangezgin1/WebMVC_.NetCore)
+- 🔭 I’m currently working on [TechnoEdu .Net Core](https://github.com/Cangezgin1/TechnoEdu)
 
 - 🌱 I’m currently learning **.Net Core, Onion Architecture, API**
 
