@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can GEZGİN</h1>
-<h3 align="center">A passionate software developer from Turkiye :)))</h3>
+<h3 align="center">A passionate .Net Developer from Turkiye :)))</h3>
 <ul align="center">
 <img align="center" width="400"<img src="https://github.com/demartini/demartini/blob/master/code.gif" />
 </ul>
