@@ -9,7 +9,7 @@
 
 <div aling="center">
   
-- 🔭 I’m currently working on [GopStore .Net Core](https://github.com/Cangezgin1/GopStore)
+- 🔭 I’m currently working on [GopStore .Net Core](https://github.com/Cangezgin1/GopStore) [LibraryManagement](https://github.com/Cangezgin1/LibraryManagement)
 
 - 🌱 I’m currently learning **.Net Core, Onion Architecture, API**
 
