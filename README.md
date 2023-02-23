@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> GEZGİN</h1>
 <ul align="center">
-<img align="center" width="400"<img src="https://github.com/demartini/demartini/blob/master/code.gif" />
-</ul>
-
-
-<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Full stack web developer" width="600" height="300"/>
-</div>
+</ul>
 
 <div aling="center">
   
