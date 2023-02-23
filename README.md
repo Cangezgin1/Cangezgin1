@@ -4,7 +4,9 @@
 </ul>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cangezgin1&label=Profile%20views&color=0e75b6&style=flat" alt="cangezgin1" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Full stack web developer" width="600" height="300"/>
+</div>
 
 <div aling="center">
   
