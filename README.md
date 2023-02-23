@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Full stack web developer" width="600" height="300"/>
 </ul>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=;asd;fgh;jkl&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
-
 <div aling="center">
   
 - 🔭 I’m currently working on [GopStore .Net Core](https://github.com/Cangezgin1/GopStore) [LibraryManagement](https://github.com/Cangezgin1/LibraryManagement)
