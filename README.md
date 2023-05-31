@@ -5,7 +5,7 @@
 
 <div aling="center">
   
-- 🔭 I’m currently working on [GopStore .Net Core](https://github.com/Cangezgin1/GopStore) [HotelApiProject](https://github.com/Cangezgin1/HotelApiProject)
+- 🔭 I’m currently working on [.Net Core E-Ticaret](https://github.com/Cangezgin1/ECommerceAspNetCore) [HotelApiProject](https://github.com/Cangezgin1/HotelApiProject)
 
 - 🌱 I’m currently learning **.Net Core, Onion Architecture, API**
 
