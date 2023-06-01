@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on [.Net Core E-Ticaret](https://github.com/Cangezgin1/ECommerceAspNetCore) , [HotelApiProject](https://github.com/Cangezgin1/HotelApiProject)
 
-- 🌱 I’m currently learning **.Net Core, Onion Architecture, API**
+- 🌱 I’m currently learning **Web API, Design Patterns, .Net Core, Onion Architecture**
 
 - 📫 How to reach me **can.gesgin@gmail.com**
   
