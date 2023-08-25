@@ -5,7 +5,7 @@
 
 <div aling="center">
   
-- 🔭 I’m currently working on [GucluGelecek](https://github.com/Cangezgin1/GucluGelecek) , [SteelProjectWebSite]([https://github.com/Cangezgin1/HotelApiProject](https://github.com/Cangezgin1/SteelProjectWebSite))
+- 🔭 I’m currently working on [GucluGelecek](https://github.com/Cangezgin1/GucluGelecek) , [SteelProjectWebSite]([https://github.com/Cangezgin1/HotelApiProject](https://github.com/Cangezgin1/SteelProjectWebSite)) 
 
 - 🌱 I’m currently learning **Web API, Design Patterns, .Net Core, Onion Architecture**
 
